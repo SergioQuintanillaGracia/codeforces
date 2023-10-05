@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class watermelon {
+public class watermelon_4A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -13,5 +13,6 @@ public class watermelon {
             System.out.println("NO");
         }
 
+        sc.close();
     }
 }
