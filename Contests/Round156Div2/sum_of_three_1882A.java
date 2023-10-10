@@ -1,5 +1,3 @@
-package Contests.Round156Div2;
-
 import java.util.Scanner;
 
 public class sum_of_three_1882A {

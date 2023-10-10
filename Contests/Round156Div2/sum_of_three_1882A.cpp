@@ -18,8 +18,8 @@ int main() {
             solutions[2] = num - 3;
 
             if (solutions[2] % 3 == 0) {
-                    solutions[1] += 2;
-                    solutions[2] -= 2;
+                solutions[1] += 2;
+                solutions[2] -= 2;
             }
 
             if (solutions[0] != solutions[1] && solutions[0] != solutions[2] && solutions[1] != solutions[2]) {

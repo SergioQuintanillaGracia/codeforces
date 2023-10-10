@@ -1,3 +1,5 @@
+// NOTE: I haven't entirely solved this problem yet, it will not pass the tests.
+
 import java.util.Scanner;
 
 public class fear_of_the_dark_1886B {
@@ -34,6 +36,7 @@ public class fear_of_the_dark_1886B {
                 System.out.println(Math.max(b_o, b_p));
             
             } else {
+                // I think this is wrong.
                 System.out.println(Math.max(Math.max(a_b, Math.max(a_o, b_o)), Math.max(a_p, b_p)));
             }
         }

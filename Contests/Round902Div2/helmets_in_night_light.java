@@ -1,3 +1,6 @@
+// NOTE: At the moment, this gives runtime error, as binary search has to be implemented, or the program
+// is too slow it can't pass the tests.
+
 package Contests.Round902Div2;
 
 import java.util.Scanner;
