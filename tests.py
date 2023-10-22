@@ -1,6 +1,9 @@
-n = 1
-while n < 10:
-    n -= 1
-    print(n)
+a = 3
+char = "#"
 
-# Bucle infinito, cada vez números más negativos.
+for i in range(1, a * 2):
+    if i < a :
+        print(char * i)
+
+    else:
+        print(char * (a * 2 - i))

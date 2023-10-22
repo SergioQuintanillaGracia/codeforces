@@ -1,7 +1,7 @@
-public class tests {
-    public static void main(String[] args) {
-        double num = 3.34;
+import java.util.Scanner;
 
-        System.out.println(3 / 2);
+public class tests {
+    public static void main(String[] args){
+        System.out.println("num: %.2f".formatted(572991.2933));
     }
 }
