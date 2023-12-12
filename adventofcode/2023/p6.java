@@ -32,5 +32,7 @@ public class p6 {
         }
 
         System.out.println(res);
+
+        sc.close();
     }
 }

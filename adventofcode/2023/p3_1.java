@@ -81,6 +81,8 @@ public class p3_1 {
 
             System.out.println("Current sum: %d".formatted(sum));
         }
+
+        sc.close();
     }
 
 

@@ -80,6 +80,8 @@ public class p5_1 {
         }
 
         System.out.println("Final min: %d".formatted(min));
+
+        sc.close();
     }
 
     

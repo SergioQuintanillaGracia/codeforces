@@ -60,6 +60,8 @@ public class p4_2 {
 
             System.out.println(arrSum(cards));
         }
+
+        sc.close();
     }
 
 

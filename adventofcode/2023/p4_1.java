@@ -48,5 +48,7 @@ public class p4_1 {
 
             System.out.println(points);
         }
+
+        sc.close();
     }
 }

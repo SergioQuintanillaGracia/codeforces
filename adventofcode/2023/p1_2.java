@@ -16,6 +16,8 @@ public class p1_2 {
         }
 
         System.out.println(sum);
+
+        sc.close();
     }
 
 
