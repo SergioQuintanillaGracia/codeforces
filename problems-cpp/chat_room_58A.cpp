@@ -10,13 +10,13 @@ int main() {
     bool saysHello = true;
 
     cin >> s;
-    
+
     for (char c : target) {
         size_t charIndex = s.find(c, lastIndex + 1);
 
         if (charIndex != string::npos) {
             lastIndex = charIndex;
-        
+
         } else {
             saysHello = false;
             break;
